@@ -76,5 +76,5 @@ Distributed under the Creative Commons Zero License. See `LICENSE` for more info
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/Isaac__sg)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=link)](https://discord.gg/GVHxGg3jpX)
 
-Project Link: [https://github.com/Zenin0/Nakiri-Discord-Bot](https://github.com/Zenin0/Nakiri-Discord-Bot)
+Project Link: [https://github.com/Zenin0/Nakiri-Discord-Bot](https://github.com/Zenin0/Nakiri-Discord-Bot) <br>
 Project Web: [https://nakiri.x10.mx](https://nakiri.x10.mx)
