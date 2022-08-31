@@ -34,7 +34,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Acerda del Projecto
+## Acerca del Projecto
 <br>
 <p align="center">
 <img src="https://www.nakiri.x10.mx/assets/images/Showcase.png">
