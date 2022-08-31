@@ -8,7 +8,7 @@
   <h3 align="center">Nakiri Bot</h3>
 
   <p align="center">
-    Un increible Bot de Discord
+    Un íncreible Bot de Discord
     <br />
   </p>
 </div>
