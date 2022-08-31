@@ -198,8 +198,7 @@ async def on_command_error(ctx, error):
 
 #TOKEN
 keep_alive()
-API = os.environ['API']
 try:
-    client.run(API)
+    client.run(TOKEN)
 except:
     os.system("kill 1")
