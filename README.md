@@ -20,7 +20,7 @@
   <summary>Tabla de Contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Acerca del Projecto</a>
+      <a href="#about-the-project">Acerca del Proyecto</a>
       <ul>
         <li><a href="#built-with">Contruido con</a></li>
       </ul>
@@ -34,7 +34,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Acerca del Projecto
+## Acerca del proyecto
 <br>
 <p align="center">
 <img src="https://www.nakiri.x10.mx/assets/images/Showcase.png">
