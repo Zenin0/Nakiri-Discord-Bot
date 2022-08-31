@@ -65,7 +65,7 @@ Si tiene alguna idea o similar hazmelo saber!
 <!-- LICENSE -->
 ## Licencia
 
-Distributed under the Creative Commons Zero License. See `LICENSE` for more information.
+Distribuido bajo la Licencia Creative Commons Zero. Consulte `LICENCIA` para obtener más información.
 
 
 
