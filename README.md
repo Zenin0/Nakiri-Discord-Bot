@@ -43,7 +43,7 @@ Aunque ya hay un montón de bots de Discord que funcionan bien, este lo hace mej
 
 Aquí esta el por qué:
 * Es capaz de varias cosas como moderación, crear una imagen de bienvenida para los usuarios...
-* Es rápido, eficaz, y muy productivo
+* Es rápido, eficaz y muy productivo
 
 
 
@@ -57,7 +57,7 @@ Aquí esta el por qué:
 
 ¡La contribuciones son gratamente aceptadas!
 
-¡Si tiene alguna idea o similar hazmelo saber!
+¡Si tiene alguna idea o similar házmelo saber!
 
 
 
