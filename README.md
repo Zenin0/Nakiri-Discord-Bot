@@ -42,8 +42,8 @@
 Aunque ya hay un montón de bots de Discord que funcionan bien, este lo hace mejor, con un montón de comnados útiles.
 
 Aquí esta el por qué:
-* Es capaz de varias cosas como moderacion, crear una imagen de bienvenida para los usuarios...
-* Es rapido, eficaz, y muy productivo
+* Es capaz de varias cosas como moderación, crear una imagen de bienvenida para los usuarios...
+* Es rápido, eficaz, y muy productivo
 
 
 
@@ -53,11 +53,11 @@ Aquí esta el por qué:
 *![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)*
 
 <!-- CONTRIBUTING -->
-## Como Contribuir
+## Como contribuir
 
-La contribuciones son gratamente aceptadas!
+¡La contribuciones son gratamente aceptadas!
 
-Si tiene alguna idea o similar hazmelo saber!
+¡Si tiene alguna idea o similar hazmelo saber!
 
 
 
@@ -66,8 +66,6 @@ Si tiene alguna idea o similar hazmelo saber!
 ## Licencia
 
 Distribuido bajo la Licencia Creative Commons Zero. Consulte `LICENCIA` para obtener más información.
-
-
 
 <!-- CONTACT -->
 ## Contacto
