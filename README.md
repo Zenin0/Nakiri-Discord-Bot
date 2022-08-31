@@ -25,9 +25,9 @@
         <li><a href="#built-with">Contruido con</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">Como Contribuir</a></li>
+    <li><a href="#license">Licencia</a></li>
+    <li><a href="#contact">Contacto</a></li>
   </ol>
 </details>
 
@@ -53,7 +53,7 @@ Aquí esta el porqué:
 *![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)*
 
 <!-- CONTRIBUTING -->
-## Contribuir
+## Como Contribuir
 
 La contribuciones son gratamente aceptadas!
 
