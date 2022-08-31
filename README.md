@@ -41,7 +41,7 @@
 </p><br>
 Aunque ya hay un montón de bots de Discord que funcionan bien, este lo hace mejor, con un montón de comnados útiles.
 
-Aquí esta el porqué:
+Aquí esta el por qué:
 * Es capaz de varias cosas como moderacion, crear una imagen de bienvenida para los usuarios...
 * Es rapido, eficaz, y muy productivo
 
