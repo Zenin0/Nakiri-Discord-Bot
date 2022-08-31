@@ -39,7 +39,7 @@
 <p align="center">
 <img src="https://www.nakiri.x10.mx/assets/images/Showcase.png">
 </p><br>
-Aunque ya hay un monton de bots de discord que funcionan bien, este lo hace mejor, con un montón de comnados utiles.
+Aunque ya hay un montón de bots de Discord que funcionan bien, este lo hace mejor, con un montón de comnados útiles.
 
 Aquí esta el porqué:
 * Es capaz de varias cosas como moderacion, crear una imagen de bienvenida para los usuarios...
