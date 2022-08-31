@@ -197,8 +197,5 @@ async def on_command_error(ctx, error):
 
 
 #TOKEN
-keep_alive()
-try:
-    client.run(TOKEN)
-except:
-    os.system("kill 1")
+client.run(TOKEN)
+
