@@ -77,3 +77,4 @@ Distributed under the Creative Commons Zero License. See `LICENSE` for more info
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=link)](https://discord.gg/GVHxGg3jpX)
 
 Project Link: [https://github.com/Zenin0/Nakiri-Discord-Bot](https://github.com/Zenin0/Nakiri-Discord-Bot)
+Project Web: [https://nakiri.x10.mx](https://nakiri.x10.mx)
